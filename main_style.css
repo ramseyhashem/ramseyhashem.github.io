@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+p {
+	font-family: "Book Antiqua", Times, serif;
+}
+
+li {
+	margin-top: 20px;
+}
+
+body {
+	font-size: 100%;
+	background-color: white;
+}
+
+#banner {
+	width: 100%;
+	background-color: #17375e;
+	border-bottom: 10px solid #0070c0;
+	color: white;
+}
+
+#title {
+	top: 20px;
+	padding: 30px;
+	text-align: center;
+	font-size: 4em;
+}
+
+#headshot img {
+	color: white;
+	box-shadow: 4px 4px 4px gray;
+    border-style: solid;
+	border-width: 4px;
+	display: block;
+	margin: 30px auto;
+
+}
+
+.container {
+	background-color: #faf9f4;
+	width: 60%;
+	min-width: 800px;
+	box-shadow: -4px 4px 4px #e0e0e0;
+	margin: 0 auto;
+	padding-top: 1px;
+}
+
+#entry {
+	padding: 2% 7% 7% 7%;
+}
